@@ -1,7 +1,8 @@
 # nsfw-dream
-![](not_nsfw.png)
+![](nsfw_dream.png)
 
-A PyTorch implementation of DeepDream
+A PyTorch implementation of DeepDream.
+Train on an NSFW dataset, so it can generate some things look like a▇▇, b▇▇▇▇▇, v▇▇▇▇ and so on.
 
 ## Usage
 1. download dataset from [EBazarov/nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls)
@@ -13,3 +14,4 @@ A PyTorch implementation of DeepDream
 ![](examples/example0.jpg)<br>
 ![](examples/example1.jpg)<br>
 ![](examples/example2.jpg)<br>
+![](examples/example3.jpg)<br>
