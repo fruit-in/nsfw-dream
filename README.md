@@ -8,3 +8,8 @@ A PyTorch implementation of DeepDream
 2. run jupyter notebook
 3. run `train.ipynb` or download pretrained model from [releases](https://github.com/fruit-in/nsfw-dream/releases)
 4. run `dream.ipynb`
+
+## Examples
+![](examples/example0.jpg)<br>
+![](examples/example1.jpg)<br>
+![](examples/example2.jpg)<br>
